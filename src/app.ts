@@ -8,7 +8,7 @@ import {PressureSensor} from "./components/PressureSensor";
 const port = process.env.PORT || 3000;
 
 // Replace this field with your MQTT broker address
-const dockerAddr = "therare.me";
+const dockerAddr = "birwaz.store";
 
 const mqttPort = 1883;
 
